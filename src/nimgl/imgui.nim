@@ -1,7 +1,7 @@
 # Copyright 2019, NimGL contributors.
 
 ## ImGUI Bindings
-## ====
+## ==============
 ## WARNING: This is a generated file. Do not edit
 ## Any edits will be overwritten by the genearator.
 ##
