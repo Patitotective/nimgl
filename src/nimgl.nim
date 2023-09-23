@@ -1,7 +1,7 @@
 # Copyright 2018, NimGL contributors.
 
 ## Nim Game Library
-## ====
+## ================
 ##
 ## Supported Libraries
 ## - `ImGUI  <./imgui.html>`_ Fast UI Development tool for debug and testing
